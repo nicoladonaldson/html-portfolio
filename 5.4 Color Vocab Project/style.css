@@ -1,0 +1,44 @@
+*{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    ;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif; 
+    font-weight: 400;
+    font-size: 40px;
+}
+
+h2{
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.color-title{
+    font-weight: 400
+}
+
+img {
+    height: 50px;
+    width: 200px;
+}
+
+#red{
+    color: red
+}
+
+#blue{
+    color: rgb(0, 90, 126)
+}
+
+#orange{
+    color: orange
+}
+
+#green{
+    color: forestgreen
+}
+
+#yellow{
+    color: rgb(212, 180, 0)
+}
